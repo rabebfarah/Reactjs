@@ -1,0 +1,45 @@
+
+img{
+    width: 237px;
+    height:157px ;
+margin-left: -281px;
+
+}
+.all{
+    color: purple;
+    margin-left: 178px;
+    margin-right: 40px;
+    font-weight: bold;
+    border: 1px solid;
+    box-shadow: 5px 10px rgb(216, 212, 212);
+    font-family: Georgia, serif;
+    font-size: 15px;
+}
+.contact{
+    color: purple;
+    margin-left: -194px;
+    margin-right: -151px;
+    font-weight: bold;
+    border: 1px solid;
+    box-shadow: 5px 10px rgb(216, 212, 212);
+    font-family: Georgia, serif;
+    font-size: 15px;
+}
+.account{
+    color: purple;
+    margin-right: -153px;
+    font-weight: bold;
+    border: 1px solid;
+    box-shadow: 5px 10px rgb(216, 212, 212);
+    font-family: Georgia, serif;
+    font-size: 15px;
+}
+.pricing{
+    color: rgb(252, 85, 210);
+    margin-right: 260px;
+    font-weight: bold;
+    border: 1px solid;
+    box-shadow: 5px 10px rgb(216, 212, 212);
+    font-family: Georgia, serif;
+    font-size: 15px;
+}

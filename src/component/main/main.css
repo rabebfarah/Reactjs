@@ -1,0 +1,17 @@
+
+.formulair{ 
+    background-color: white;
+    height: 289px;
+    width: 553px;
+    padding-right: 62px;
+    padding-left: 62px;
+    padding-top: 37px;
+    margin-right: 118px;
+    margin-left: 301px;
+    margin-top: 70px;
+    text-align: center;
+    box-shadow: 20px 20px rgb(214, 206, 206);
+    font-family: Georgia, serif;
+    font-size: 15px;
+    position: absolute;
+    }
